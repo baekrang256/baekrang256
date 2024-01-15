@@ -34,7 +34,7 @@
     - [baekjoon profile](https://www.acmicpc.net/user/dylon133)
     - Completed [Samsung Electronics DX Division Summer Special Lecture on Strengthening S/W Algorithm Capacity for College Students, 2023 Summer](https://samsungalgorithm.com/)
   - Passionate for learning new things :)
-  - Communicating for better
+  - Communication and talk for better me (and you)
   - Other self projects in plan :D
 
 - 🤔 I’m looking for help with
