@@ -56,6 +56,7 @@
   - [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX)
     - Learned Indexes, Implementations and Multithreading using C++
   - Algorithm : [baekjoon profile](https://www.acmicpc.net/user/dylon133)
+  - C/C++/Java/Python programming
   - English 😆
   - Passionate for learning new things :)
   - Communication and talk for better me (and you)
