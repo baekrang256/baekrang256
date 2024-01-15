@@ -7,7 +7,7 @@
 - 🔭 I’ve worked (working) on
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.)
-  - Student Intern at KAIST CASYS (Youngjin Kwon) (Tentative)
+  - Student Intern at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) (Tentative)
 
 - 🌱 I’m currently learning/doing ...
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
