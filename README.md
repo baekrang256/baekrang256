@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning/doing ...
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
-  - MySQL : [MySQL Tutorial - w3schools](https://www.w3schools.com/mySQl/default.asp)
+  - MySQL
   - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
   - Spring Boot
   - Git/Github : [Github flow - Johannes Kettmann](https://ooloo.io/project/github-flow)
@@ -48,6 +48,7 @@
     - DevOps Directive - Docker from beginner to pro! <a href="https://www.youtube.com/watch?v=RqTEHSBrYFw&t=1s">(link)</a><br>
     - Samsung Electronics DX Division Summer Special Lecture on Strengthening S/W Algorithm Capacity for College Students, 2023 Summer<a href="https://samsungalgorithm.com/">(link)</a><br>
     - [왕초보편] 앱 8개를 만들면서 배우는 안드로이드 코틀린(Android Kotlin)<a href="https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1/dashboard">(link)</a><br>
+    - MySQL Tutorial - w3schools <a href = "https://www.w3schools.com/mySQl/default.asp">(link)</a><br>
     </details>
   - <details>
     <summary> Books read </summary>
