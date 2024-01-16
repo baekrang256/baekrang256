@@ -62,7 +62,7 @@
   - Communication and talk for better me (and you)
 
 - 🤔 I’m looking for help with
-  - Starting a new career / joining team project
+  - Starting a career / joining team project
 
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
