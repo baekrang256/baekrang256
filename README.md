@@ -2,7 +2,7 @@
 
 - 🌐 community website
   - [velog](https://velog.io/@baekrang256/posts)
-  - [linkedin](www.linkedin.com/in/seiyeon-cho-818607290)
+  - linkedin - www.linkedin.com/in/seiyeon-cho-818607290
 
 - 🔭 I’ve worked (working) on
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
