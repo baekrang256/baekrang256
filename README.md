@@ -49,6 +49,7 @@
     - Samsung Electronics DX Division Summer Special Lecture on Strengthening S/W Algorithm Capacity for College Students, 2023 Summer<a href="https://samsungalgorithm.com/">(link)</a><br>
     - [왕초보편] 앱 8개를 만들면서 배우는 안드로이드 코틀린(Android Kotlin)<a href="https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1/dashboard">(link)</a><br>
     - MySQL Tutorial - w3schools <a href = "https://www.w3schools.com/mySQl/default.asp">(link)</a><br>
+    - MySQL Tutorial for Beginners [Full Course] <a href = https://www.youtube.com/watch?v=7S_tz1z_5bA>(link)</a><br>
     </details>
   - <details>
     <summary> Books read </summary>
