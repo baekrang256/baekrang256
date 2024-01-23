@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning/doing ...
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
-  - MySQL : [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA)
   - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
   - Spring Boot
   - Git/Github : [Github flow - Johannes Kettmann](https://ooloo.io/project/github-flow)
