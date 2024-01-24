@@ -13,7 +13,6 @@
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
   - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
   - Spring Boot
-  - Git/Github : [Github flow - Johannes Kettmann](https://ooloo.io/project/github-flow)
   - Theoretical backgrounds related to backend/DevOps
   - Algorithms (for code tests) : [baekjoon](https://www.acmicpc.net/)/[programmers](https://programmers.co.kr/)
   - Planning new projects :D
@@ -49,6 +48,7 @@
     - [왕초보편] 앱 8개를 만들면서 배우는 안드로이드 코틀린(Android Kotlin)<a href="https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1/dashboard">(link)</a><br>
     - MySQL Tutorial - w3schools <a href = "https://www.w3schools.com/mySQl/default.asp">(link)</a><br>
     - MySQL Tutorial for Beginners [Full Course] <a href = https://www.youtube.com/watch?v=7S_tz1z_5bA>(link)</a><br>
+    - Github flow - Johannes Kettmann <a href = https://ooloo.io/project/github-flow>(link)</a><br>
     </details>
   - <details>
     <summary> Books read </summary>
@@ -58,6 +58,7 @@
     - Learned Indexes, Implementations and Multithreading using C++
   - Algorithm : [baekjoon profile](https://www.acmicpc.net/user/dylon133)
   - C/C++/Java/Python programming
+  - Collaborating with other teammates using github
   - English 😆
   - Passionate for learning new things :)
   - Communication and talk for better me (and you)
