@@ -49,6 +49,7 @@
     - MySQL Tutorial - w3schools <a href = "https://www.w3schools.com/mySQl/default.asp">(link)</a><br>
     - MySQL Tutorial for Beginners [Full Course] <a href = https://www.youtube.com/watch?v=7S_tz1z_5bA>(link)</a><br>
     - Github flow - Johannes Kettmann <a href = https://ooloo.io/project/github-flow>(link)</a><br>
+    - Learn Git Branching <a href = https://learngitbranching.js.org/?locale=en_US>(link)</a><br>
     </details>
   - <details>
     <summary> Books read </summary>
