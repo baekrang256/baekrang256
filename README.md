@@ -60,8 +60,8 @@
     - Learned Indexes, Implementations and Multithreading using C++
   - Algorithm : [baekjoon profile](https://www.acmicpc.net/user/dylon133)
   - C/C++/Java/Python programming
-  - Handled projects related to Docker, MySQL, Spring Boot
-  - Theoretical background on RDBMS, Kafka, Internet technology and protocols, API and authentication for web application, software design and architecture. (and related backgrounds learnt from lecture. Check the lectures learned in college for details.)
+  - Handled projects related to Docker, MySQL, Spring Boot, Linux, CUDA, Verilog.
+  - Theoretical background on multithreading and synchronizations, RDBMS, Kafka, Internet technology and protocols, API and authentication for web application, software design and architecture. (and related backgrounds learnt from lecture. Check the lectures learned in college for details.)
   - Collaborating with other teammates using github
   - English 😆
   - Passionate for learning new things :)
