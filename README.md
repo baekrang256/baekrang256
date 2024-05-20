@@ -17,7 +17,7 @@
   - Theoretical backgrounds related to backend/DevOps [with following roadmap](https://roadmap.sh/backend)
   - [Toy project Birdy - discord bot for message handling](https://github.com/baekrang256/birdyTest)
 
-- 💻 What I've done and capable of
+- 💻 What I've studied
   - <details>
     <summary> Lectures learned in college (KAIST, Average Grade 3.78/4.3) </summary>
     - <a href="https://cs.kaist.ac.kr/education/undergraduate">Details of each lecture</a><br>
@@ -55,8 +55,6 @@
     <summary> Books read </summary>
     - (preparing)<br>
     </details>
-  - [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX)
-    - Learned Indexes, Implementations and Multithreading using C++
   - Algorithm : [baekjoon profile](https://www.acmicpc.net/user/dylon133)
   - C/C++/Java/Python programming
   - School assignment projects related to Docker, SQL, OS design, CUDA, Verilog and web security
@@ -64,6 +62,10 @@
   - English 😆
   - Passionate for learning new things :)
   - Communication and talk for better me (and you)
+
+- 💻 What I've done
+  - [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX)
+    - Learned Indexes, Implementations and Multithreading using C++
 
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
