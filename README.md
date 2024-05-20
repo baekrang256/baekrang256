@@ -7,16 +7,15 @@
 - 🔭 I’ve worked (working) on
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.)
-  - Student Intern at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : File mapping performance analysis with different file mapping structure (2024.02.~)
+  - Student Intern at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie File mapping performance analysis (2024.02.~)
 
 - 🌱 I’m currently learning/doing ...
+  - PREPARING JOB INTERVIEWS (~5/31)
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
   - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
   - Spring Boot : [Learn Spring Boot - Baeldung](https://www.baeldung.com/spring-boot)
   - Theoretical backgrounds related to backend/DevOps [with following roadmap](https://roadmap.sh/backend)
-  - Algorithms (for code tests) : [baekjoon](https://www.acmicpc.net/)/[programmers](https://programmers.co.kr/)
   - [Toy project Birdy - discord bot for message handling](https://github.com/baekrang256/birdyTest)
-  - Planning other new projects related to web service
 
 - 💻 What I've done and capable of
   - <details>
@@ -60,15 +59,11 @@
     - Learned Indexes, Implementations and Multithreading using C++
   - Algorithm : [baekjoon profile](https://www.acmicpc.net/user/dylon133)
   - C/C++/Java/Python programming
-  - Handled projects related to Docker, MySQL, Spring Boot, Linux, CUDA, Verilog, git/github.
-  - Theoretical background on multithreading and synchronizations, RDBMS, Kafka, Internet technology and protocols, API and authentication for web application, software design and architecture. (and related backgrounds learnt from lecture. Check the lectures learned in college for details.)
-  - Collaborating with other teammates using github
+  - School assignment projects related to Docker, SQL, OS design, CUDA, Verilog and web security
+  - Theoretical background on multithreading and synchronizations, RDBMS, Internet technology and protocols, API and authentication for web application, software design and architecture.
   - English 😆
   - Passionate for learning new things :)
   - Communication and talk for better me (and you)
-
-- 🤔 I’m looking for help with
-  - Starting a career / joining team project
 
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
