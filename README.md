@@ -11,7 +11,6 @@
   - Samsung DS Memory Business Division S/W Developer (Tentative)
 
 - 🌱 I’m currently learning/doing ...
-  - PREPARING JOB INTERVIEWS (~5/31)
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
   - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
   - Spring Boot : [Learn Spring Boot - Baeldung](https://www.baeldung.com/spring-boot)
