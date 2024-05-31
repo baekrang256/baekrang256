@@ -8,6 +8,7 @@
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.)
   - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie File mapping performance analysis (2024.02.~05.)
+  - Samsung DS Memory Business Division S/W Developer (Tentative)
 
 - 🌱 I’m currently learning/doing ...
   - PREPARING JOB INTERVIEWS (~5/31)
