@@ -1,8 +1,5 @@
 ### Hi there 👋
-
 **My name is Seiyeon Cho!**
-- I'm studying/working hard on Computer System and Architecture + Software Engineering.
-- I'm also interested (as a hobby) on Backend and AI technologies
 
 - 🌐 community website
   - [velog](https://velog.io/@baekrang256/posts)
