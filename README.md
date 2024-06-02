@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**My name is Seiyeon Cho!**
+- I'm studying/working hard on Computer System and Architecture + Software Engineering.
+- I'm also interested (as a hobby) on Backend and AI technologies
+
 - 🌐 community website
   - [velog](https://velog.io/@baekrang256/posts)
   - linkedin - www.linkedin.com/in/seiyeon-cho-818607290
@@ -9,6 +13,7 @@
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.)
   - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie File mapping performance analysis (2024.02.~05.)
   - Samsung DS Memory Business Division S/W Developer (Tentative)
+
 
 - 🌱 I’m currently learning/doing ...
   - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
