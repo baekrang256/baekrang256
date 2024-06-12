@@ -1,9 +1,17 @@
 ### Hi there 👋
 **My name is Seiyeon Cho!**
+I'm a growing developer who study and code hard.
+As a result I want to give positive influence to other people, both developers and customers, as much as possible
+using trending skills and with eminent fellows.
+I'm currently trying both system and backend track, preparing to select one of those in 2024 Winter.
 
+- 📫 How to reach me
+  - E-mail : baekrang256@gmail.com
+  
 - 🌐 community website
   - [velog](https://velog.io/@baekrang256/posts)
   - linkedin - www.linkedin.com/in/seiyeon-cho-818607290
+  - PS : [baekjoon profile](https://www.acmicpc.net/user/dylon133), [swea profile](https://swexpertacademy.com/main/userpage/userInformation.do)
 
 - 🔭 I’ve worked (working) on
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
@@ -11,12 +19,35 @@
   - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie File mapping performance analysis (2024.02.~05.)
 
 
-- 🌱 I’m currently learning/doing ...
-  - Java : <a href="https://www.yes24.com/Product/Goods/24259565">Java의 정석 - 남궁성</a>
+- 🌱 I’m currently learning/working on...
   - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
-  - Spring Boot : [Learn Spring Boot - Baeldung](https://www.baeldung.com/spring-boot)
-  - Theoretical backgrounds related to backend/DevOps [with following roadmap](https://roadmap.sh/backend)
   - [Toy project Birdy - discord bot for message handling](https://github.com/baekrang256/birdyTest)
+  - Developing my own OS using Rust. (link tentative)
+  - Developing fishing macro for holocure video game. (link tentative)
+  - Applied Web/Mobile Boot Camp (Naver Connect) to get a know-how on becoming a growing developer with other fellows using Web development (Full Stack)
+
+- Skill Stack
+  - Completed complicated project with
+    - C, C++, CMake : pintOS (OS development). ALEX modification to support string key and multithreading. several CPU/cache hierarchy architecture simulation. performance comparison for matrix multiplication between CPU and several GPU strategies.
+    - Git : ALEX modification to support string key and multithreading. Birdy Discord Bot project handling and CI/CD.
+    - Linux : ALEX modification. Using VFS to adopt personal made file system.
+  - Completed minor project with
+    - Java, Kotlin, AWS EC2, gradle(w) : Birdy Discord Bot coding + deployment in remote environment
+    - Python : Data Science project discriminating fake import declaration identification
+    - Verilog/FPGA : Designed Systolic Array Architecture for matrix multiplication, and 
+    - Spring Boot : Simple REST API.
+  - Knows basic and theory
+    - SQL : Done some school projects related to several types of querying.
+    - WireShark : Analyzed handshake process on QUIC/TCP.
+    - Redis : Trying implementation on Birdy for message scheduling.
+    - Docker : Deployed toy website with react using Docker.
+
+- 💻 What I've done
+  - [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX)
+    - Modified ALEX to support string key, and handled resulitng perofrmance drop using carefully handled multithreading system.
+    - Related theory : RCU Barrier, Read-Write Lock, Mutex, condition_variable tool in C++, Linear model AI, B+tree
+  - Some open source contribution
+    - [simplefs : Use binary search for searching extent](https://github.com/sysprog21/simplefs/pull/42)
 
 - 💻 What I've studied
   - <details>
@@ -56,17 +87,3 @@
     <summary> Books read </summary>
     - (preparing)<br>
     </details>
-  - Algorithm : [baekjoon profile](https://www.acmicpc.net/user/dylon133)
-  - C/C++/Java/Python programming
-  - School assignment projects related to Docker, SQL, OS design, CUDA, Verilog and web security
-  - Theoretical background on multithreading and synchronizations, RDBMS, Internet technology and protocols, API and authentication for web application, software design and architecture.
-  - English 😆
-  - Passionate for learning new things :)
-  - Communication and talk for better me (and you)
-
-- 💻 What I've done
-  - [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX)
-    - Learned Indexes, Implementations and Multithreading using C++
-
-- 📫 How to reach me
-  - E-mail : baekrang256@gmail.com
