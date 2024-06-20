@@ -20,11 +20,11 @@ I'm currently trying both system and backend track, preparing to select one of t
 
 
 - 🌱 I’m currently learning/working on...
-  - Linux : [Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux](https://www.amazon.com/Linux-Administration-Cookbook-Insightful-administration/dp/178934252X/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8)
   - [Toy project Birdy - discord bot for message handling](https://github.com/baekrang256/birdyTest)
-  - Developing my own OS using Rust. (link tentative)
+  - Developing my own OS using Rust. (link tentative) : [currently learning rust](https://doc.rust-lang.org/stable/book/ch10-02-traits.html)
   - Developing fishing macro for holocure video game. (link tentative)
   - Applied Web/Mobile Boot Camp (Naver Connect) to get a know-how on becoming a growing developer with other fellows using Web development (Full Stack)
+    - Currently Taking Basic Course
 
 - Skill Stack
   - Completed complicated project with
