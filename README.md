@@ -21,7 +21,7 @@ I'm currently trying both system and backend track, preparing to select one of t
 
 - 🌱 I’m currently learning/working on...
   - [Toy project Birdy - discord bot for message handling](https://github.com/baekrang256/birdyTest)
-  - Developing my own OS using Rust. (link tentative) : [currently learning rust](https://doc.rust-lang.org/stable/book/ch10-02-traits.html)
+  - Developing my own OS using Rust. (link tentative) : [currently learning rust]([https://doc.rust-lang.org/stable/book/ch10-02-traits.html](https://doc.rust-lang.org/stable/book/title-page.html))
   - Developing fishing macro for holocure video game. (link tentative)
   - Applied Web/Mobile Boot Camp (Naver Connect) to get a know-how on becoming a growing developer with other fellows using Web development (Full Stack)
     - Currently Taking Basic Course
