@@ -87,3 +87,4 @@ I'm currently trying both system and backend track, preparing to select one of t
     <summary> Books read </summary>
     - (preparing)<br>
     </details>
+  [![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
