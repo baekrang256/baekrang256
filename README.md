@@ -1,9 +1,9 @@
 ### Hi there 👋
 **My name is Seiyeon Cho!**
-I'm a growing developer who study and code hard.
-As a result I want to give positive influence to other people, both developers and customers, as much as possible
+I'm a growing developer who study, code hard, and try to communicate with other developers.
+By my development I want to give positive influence to other people, both developers and customers, as much as possible
 using trending skills and with eminent fellows.
-I'm currently trying both system and backend track, preparing to select one of those in 2024 Winter.
+I'm currently focused on system and architecture development, but is also interested in software engineering and communication skills.
 
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
@@ -16,15 +16,13 @@ I'm currently trying both system and backend track, preparing to select one of t
 - 🔭 I’ve worked (working) on
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.) [Related Paper](https://jongse-park.github.io/files/paper/2024-vldb-sia.pdf)
-  - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie File mapping performance analysis (2024.02.~05.)
-
+  - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie's File mapping performance analysis (2024.02.~05.)
 
 - 🌱 I’m currently learning/working on...
-  - [Toy project Birdy - discord bot for message handling](https://github.com/baekrang256/birdyTest)
-  - Developing my own OS using Rust. (link tentative) : [currently learning rust](https://doc.rust-lang.org/stable/book/title-page.html)
-  - Developing fishing macro for holocure video game. (link tentative)
-  - Applied Web/Mobile Boot Camp (Naver Connect) to get a know-how on becoming a growing developer with other fellows using Web development (Full Stack)
-    - Currently Taking Basic Course
+  - CSTS / ISTQB preperation
+  - [Learning Device Driver Development](https://comento.kr/kdigital/%EC%A0%9C%EC%A1%B0%E2%88%99%EC%97%B0%EA%B5%AC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B0%98%EB%8F%84%EC%B2%B4-sw%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EA%B0%9C%EB%B0%9C)
+  - Reviewing CS theories from schoolworks
+  - some side projects (tentative. RISC-V, holocure macro, Birdy etc.)
 
 - Skill Stack
   - Completed complicated project with
@@ -77,7 +75,6 @@ I'm currently trying both system and backend track, preparing to select one of t
     <summary> Other Lectures completed online/offline </summary>
     - DevOps Directive - Docker from beginner to pro! <a href="https://www.youtube.com/watch?v=RqTEHSBrYFw&t=1s">(link)</a><br>
     - Samsung Electronics DX Division Summer Special Lecture on Strengthening S/W Algorithm Capacity for College Students, 2023 Summer<a href="https://samsungalgorithm.com/">(link)</a><br>
-    - [왕초보편] 앱 8개를 만들면서 배우는 안드로이드 코틀린(Android Kotlin)<a href="https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%95%B1/dashboard">(link)</a><br>
     - MySQL Tutorial - w3schools <a href = "https://www.w3schools.com/mySQl/default.asp">(link)</a><br>
     - MySQL Tutorial for Beginners [Full Course] <a href = https://www.youtube.com/watch?v=7S_tz1z_5bA>(link)</a><br>
     - Github flow - Johannes Kettmann <a href = https://ooloo.io/project/github-flow>(link)</a><br>
