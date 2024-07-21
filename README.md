@@ -42,8 +42,12 @@ I'm currently focused on system and architecture development, but is also intere
   - [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX)
     - Modified ALEX to support string key, and handled resulitng perofrmance drop using carefully handled multithreading system.
     - Related theory : RCU Barrier, Read-Write Lock, Mutex, condition_variable tool in C++, Linear model AI, B+tree
+  - Graduate Project ; Cuckoo Trie's File mapping performance analysis on PM
+    - Implemented key deletiion in Cuckoo Trie, and used Strata FS's API to test the index structure's performance on different standards
+    - Related theory : File mapping, File system, VFS, Cuckoo Trie (Cuckoo hashing + Trie), MLP
   - Some open source contribution
     - [simplefs : Use binary search for searching extent](https://github.com/sysprog21/simplefs/pull/42)
+    - Related theory : VFS, algorithm
 
 - 💻 What I've studied
   - <details>
