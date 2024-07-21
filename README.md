@@ -31,13 +31,11 @@ I'm currently focused on system and architecture development, but is also intere
     - Linux : ALEX modification. Using VFS to adopt personal made file system.
   - Completed minor project with
     - Java, Kotlin, AWS EC2, gradle(w) : Birdy Discord Bot coding + deployment in remote environment
-    - Python : Data Science project discriminating fake import declaration identification
+    - Python : Data Science project discriminating fake import declaration identification (91% accuracy)
     - Verilog/FPGA : Designed Systolic Array Architecture for matrix multiplication, and 
-    - Spring Boot : Simple REST API.
   - Knows basic and theory
     - SQL : Done some school projects related to several types of querying.
     - WireShark : Analyzed handshake process on QUIC/TCP.
-    - Redis : Trying implementation on Birdy for message scheduling.
     - Docker : Deployed toy website with react using Docker.
 
 - 💻 What I've done
