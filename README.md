@@ -10,7 +10,7 @@ I'm currently focused on system and architecture development, but is also intere
   
 - 🌐 community website
   - [velog](https://velog.io/@baekrang256/posts)
-  - linkedin - www.linkedin.com/in/seiyeon-cho-818607290
+  - [linkedin](https://www.linkedin.com/in/seiyeon-cho-818607290)
   - PS : [baekjoon profile](https://www.acmicpc.net/user/dylon133), [swea profile](https://swexpertacademy.com/main/userpage/userInformation.do)
 
 - 🔭 I’ve worked (working) on
