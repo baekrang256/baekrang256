@@ -1,9 +1,6 @@
 ### Hi there 👋
 **My name is Seiyeon Cho!**
-I'm a growing developer who study, code hard, and try to communicate with other developers.
-By my development I want to give positive influence to other people, both developers and customers, as much as possible
-using trending skills and with eminent fellows.
-I'm currently focused on system and architecture development, but is also interested in software engineering and communication skills.
+I'm currently focused on Embed, system and architecture, but is also interested in swe, AI and backend.
 
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
@@ -18,16 +15,6 @@ I'm currently focused on system and architecture development, but is also intere
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.) [Related Paper](https://arxiv.org/abs/2403.11472)
   - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie's File mapping performance analysis (2024.02.~06.)
 
-- 🌱 I’m currently learning/working on...
-  - CSTS preperation
-  - Preparing for job
-  - Reviewing CS theories from schoolworks
-  - some side projects
-    - [Embedded Recipies](https://recipes.tistory.com/)
-    - ARM Architecture self-studying
-    - holocure macro (tentative)
-    - Birdy (tentative)
-
 - Skill Stack
   - Completed complicated project with
     - C, C++, CMake : pintOS (OS development). ALEX modification to support string key and multithreading. several CPU/cache hierarchy architecture simulation. performance comparison for matrix multiplication between CPU and several GPU strategies.
@@ -36,7 +23,7 @@ I'm currently focused on system and architecture development, but is also intere
   - Completed minor project with
     - Java, Kotlin, AWS EC2, gradle(w) : Birdy Discord Bot coding + deployment in remote environment
     - Python : Data Science project discriminating fake import declaration identification (91% accuracy)
-    - Verilog/FPGA : Designed Systolic Array Architecture for matrix multiplication, and 
+    - HDL/FPGA : Designed Systolic Array Architecture for matrix multiplication
   - Knows basic and theory
     - SQL : Done some school projects related to several types of querying.
     - WireShark : Analyzed handshake process on QUIC/TCP.
@@ -92,3 +79,13 @@ I'm currently focused on system and architecture development, but is also intere
     - Tentative <br>
     </details>
   [![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🌱 I’m currently learning/working on...
+  - CSTS preperation
+  - Preparing for job
+  - Reviewing CS theories from schoolworks
+  - some side projects
+    - [Embedded Recipies](https://recipes.tistory.com/)
+    - ARM Architecture self-studying
+    - holocure macro (tentative)
+    - Birdy (tentative)
