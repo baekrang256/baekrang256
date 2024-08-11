@@ -78,8 +78,7 @@ I'm currently focused on Embed, system and architecture, but is also interested 
     <summary> Books read </summary>
     - Tentative <br>
     </details>
-  [![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
-
+    
 - 🌱 I’m currently learning/working on...
   - CSTS preperation
   - Preparing for job
@@ -89,3 +88,5 @@ I'm currently focused on Embed, system and architecture, but is also interested 
     - ARM Architecture self-studying
     - holocure macro (tentative)
     - Birdy (tentative)
+
+[![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
