@@ -16,13 +16,17 @@ I'm currently focused on system and architecture development, but is also intere
 - 🔭 I’ve worked (working) on
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.) [Related Paper](https://jongse-park.github.io/files/paper/2024-vldb-sia.pdf)
-  - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie's File mapping performance analysis (2024.02.~05.)
+  - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie's File mapping performance analysis (2024.02.~06.)
 
 - 🌱 I’m currently learning/working on...
-  - CSTS / ISTQB preperation
-  - [Learning Device Driver Development](https://comento.kr/kdigital/%EC%A0%9C%EC%A1%B0%E2%88%99%EC%97%B0%EA%B5%AC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B0%98%EB%8F%84%EC%B2%B4-sw%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EA%B0%9C%EB%B0%9C)
+  - CSTS preperation
+  - Preparing for job
   - Reviewing CS theories from schoolworks
-  - some side projects (tentative. RISC-V, holocure macro, Birdy etc.)
+  - some side projects
+    - [Embedded Recipies](https://recipes.tistory.com/)
+    - ARM Architecture self-studying
+    - holocure macro (tentative)
+    - Birdy (tentative)
 
 - Skill Stack
   - Completed complicated project with
@@ -70,7 +74,7 @@ I'm currently focused on system and architecture development, but is also intere
     - CS376 : Machine Learning<br>
     - CS411 : System for Artificial Intelligence<br>
     - CS485 : Machine Learning for Computer Vision<br>
-    - CS493 : Special Topics in Computer Science I : CS for All (tentative) <br>
+    - CS493 : Special Topics in Computer Science I : CS for All <br>
     - CS510 : Computer Architecture (Graduate Course)<br>
     </details>
   - <details>
@@ -81,9 +85,10 @@ I'm currently focused on system and architecture development, but is also intere
     - MySQL Tutorial for Beginners [Full Course] <a href = https://www.youtube.com/watch?v=7S_tz1z_5bA>(link)</a><br>
     - Github flow - Johannes Kettmann <a href = https://ooloo.io/project/github-flow>(link)</a><br>
     - Learn Git Branching <a href = https://learngitbranching.js.org/?locale=en_US>(link)</a><br>
+    - Introduction to Device Driver Development for System Semiconductor <a href = htps://comento.kr/kdigital/%EC%A0%9C%EC%A1%B0%E2%88%99%EC%97%B0%EA%B5%AC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B0%98%EB%8F%84%EC%B2%B4-sw%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88-%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EA%B0%9C%EB%B0%9C>(link)</a><br>
     </details>
   - <details>
     <summary> Books read </summary>
-    - (preparing)<br>
+    - Tentative <br>
     </details>
   [![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
