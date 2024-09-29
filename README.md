@@ -80,14 +80,9 @@ I'm currently focused on Embed, system and architecture, but is also interested 
     </details>
     
 - 🌱 I’m currently learning/working on...
-  - CSTS preperation
   - Preparing for job
   - Reviewing CS theories from schoolworks
-  - some side projects
-    - [Embedded Recipies](https://recipes.tistory.com/)
-    - ARM Architecture self-studying
-    - holocure macro (tentative)
-    - Birdy (tentative)
+  - PS
 
 [![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
 [![코드트리|실력진단-baekrang256](https://banner.codetree.ai/v1/banner/baekrang256)](https://www.codetree.ai/profiles/baekrang256)
