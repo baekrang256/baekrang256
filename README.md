@@ -42,7 +42,7 @@ I'm currently focused on Embed, system and architecture, but is also interested 
 
 - 💻 What I've studied
   - <details>
-    <summary> Lectures learned in college (KAIST, Average Grade 3.78/4.3) </summary>
+    <summary> Lectures learned in college (KAIST, Major Average Grade 3.84/4.3) </summary>
     - <a href="https://cs.kaist.ac.kr/education/undergraduate">Details of each lecture</a><br>
     - CS101 : Introduction to Programming<br>
     - CS204 : Discrete Mathematics<br>
