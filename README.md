@@ -78,6 +78,11 @@ I'm currently focused on Embed, system and architecture, but is also interested 
     <summary> Books read </summary>
     - Tentative <br>
     </details>
+
+- 📜 Certificates (certificate can be shown if requested)
+  - CSTS Foundation Level
+  - TOEIC : 970 
+  - OPic : AL
     
 - 🌱 I’m currently learning/working on...
   - Preparing for job
