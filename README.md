@@ -1,6 +1,5 @@
 ### Hi there 👋
 **My name is Seiyeon Cho!**
-I'm currently focused on Embed, system and architecture, but is also interested in swe, AI and backend.
 
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
