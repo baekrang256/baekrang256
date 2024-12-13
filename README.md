@@ -85,8 +85,7 @@
   - OPic : AL
     
 - 🌱 I’m currently learning/working on...
-  - Preparing for job
-  - Reviewing CS theories from schoolworks
+  - Device driver / Linux / C++ theory learning
   - PS
 
 [![Seiyeon Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekrang256)](https://github.com/anuraghazra/github-readme-stats)
