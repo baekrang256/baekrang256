@@ -14,6 +14,7 @@ I'm currently focused on Embed, system and architecture, but is also interested 
   - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~2024.08.)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.) [Related Paper](https://arxiv.org/abs/2403.11472)
   - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie's File mapping performance analysis (2024.02.~06.)
+  - System SW developer, LG Electronics (2025.02~)
 
 - Skill Stack
   - Completed complicated project with
