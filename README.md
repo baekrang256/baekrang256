@@ -10,7 +10,7 @@
   - PS : [baekjoon profile](https://www.acmicpc.net/user/dylon133), [swea profile](https://swexpertacademy.com/main/userpage/userInformation.do)
 
 - 🔭 I’ve worked (working) on
-  - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~2024.08.)
+  - KAIST (Computer Science/Mathematics Bachelor Degree, 2017.02.~2024.08.) (Tot. 3.18/4.3, Major 3.84/4.3)
   - Student Intern at KAIST CASYS ([Jongse Park](https://jongse-park.github.io/)) : [String Key and Multithreading for ALEX](https://github.com/baekrang256/ALEX) (2022.12.~2023.12.) [Related Paper](https://arxiv.org/abs/2403.11472)
   - Graduate Research at KAIST CASYS ([Youngjin Kwon](https://sites.google.com/view/yjkwon/home)) : Cuckoo Trie's File mapping performance analysis (2024.02.~06.)
   - System SW developer, LG Electronics (2025.02~)
