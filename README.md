@@ -10,6 +10,7 @@
      - Implemented key deletiion in Cuckoo Trie, and used Strata FS's API to test the index structure's performance on different standards
      - Related theory : File mapping, File system, VFS, Cuckoo Trie (Cuckoo hashing + Trie), MLP
   - SWE (TV SW), LG Electronics (2025.02~)
+     - Platform Core Technology Team : Graphic Management / Keyfilter
 
 - 📜 Certificates (certificate can be shown if requested)
   - CSTS Foundation Level
