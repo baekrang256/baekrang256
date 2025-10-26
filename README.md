@@ -18,8 +18,8 @@
   - OPic : AL
     
 - 🌱 I’m currently learning/working on...
-  - Device driver / Linux / C++ theory learning
-  - PS
+  - weston/wayland protocol
+  - openGL
   
 - 📫 How to reach me
   - E-mail : baekrang256@gmail.com
